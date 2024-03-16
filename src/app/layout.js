@@ -1,7 +1,7 @@
 "use client";
 import "./globals.css";
 import localFont from "next/font/local";
-import Header from "../app/components/Header/Header";
+import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 
 
@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={poppins.className}>
-        {/* <Header /> */}
+        <Header />
         {children}
         {/* <Footer /> */}
       </body>

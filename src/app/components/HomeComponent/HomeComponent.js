@@ -1,11 +1,11 @@
 import React from 'react'
-import { Hind } from "next/font/google";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Header from "../Header/Header";
 import Image from "next/image";
 
+import { Hind } from "next/font/google";
 const hind = Hind({
     subsets: ["latin"],
     weight: ["300", "400", "500", "600", "700"],
