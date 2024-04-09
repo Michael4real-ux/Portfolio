@@ -68,9 +68,9 @@ export default function AboutMe() {
               className={`w-full lg:w-1/3 text-[#223740] mr-0 mb-5  lg:mr-4 font-[200] ${hind.className}`}
             >
               {" "}
-              My name is Ehizeex. A professional and enthusiastic full-stack
-              developer and designer. However, I am more than just your average
-              programmer or designer. I&apos;ve been running my own business for the
+              My name is Damilola. A professional and enthusiastic software engineer
+              and mentor. However, I am more than just your average software 
+              Engineer. I&apos;ve been a software engineer for the
               past 7 years and I was continually coming up with new concepts.
               I&apos;m very fluid and never stop learning and adapting to new
               situations.
@@ -80,7 +80,7 @@ export default function AboutMe() {
             >
               {" "}
               This attitude propelled me on an endless journey to learn a
-              variety of skills, including Teaching skill, UI/UX, design,
+              variety of skills, including Teaching and mentoring junior engineers,
               front-end and back-end development, devOps, SEO and optimisations,
               server management, product design, software design, database
               design, and many more...

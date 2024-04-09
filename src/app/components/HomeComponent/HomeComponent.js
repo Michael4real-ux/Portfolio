@@ -146,7 +146,7 @@ const  HomeComponent = () =>{
               <div className="m-auto container"
                style={{width: '100%', height: '100%'}}
               >
-                {/* <Image
+                <Image
                   className=""
                   alt="Full-Stack Engineer"
                   src="/ehizeex.png"
@@ -156,7 +156,7 @@ const  HomeComponent = () =>{
                   height={0}
                   sizes="100vw"
                   style={{ width: '100%', height: 'auto' }} 
-                /> */}
+                />
               </div>
             </div>
           </div>
