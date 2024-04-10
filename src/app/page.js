@@ -5,6 +5,7 @@ import HomeComponent from "./components/HomeComponent/HomeComponent";
 import { Hind } from "next/font/google";
 import AboutMe from "./components/AboutMe/AboutMe";
 import Testimonial from "./components/Testimonial/Testimonial";
+import CallToAction from "./components/CallToAction/CallToAction";
 
 const hind = Hind({
     subsets: ["latin"],
@@ -67,6 +68,7 @@ export default function Home() {
       </div>
       <AboutMe/>
       <Testimonial/>
+      <CallToAction/>
     </main>
   );
 }

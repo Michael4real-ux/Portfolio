@@ -69,7 +69,7 @@ export async function POST(request) {
 <body>
     <div class="email-container">
 
-        <p>edubaba digital</p>
+        <p>Damilola Portfolio</p>
         <ul>
             <li><strong>Name:</strong> ${data.name}</li>
             <li><strong>Email:</strong> ${data.email}</li>
@@ -84,7 +84,7 @@ export async function POST(request) {
       `, 
     });
     if(info.messageId){
-      return NextResponse.json({ error:false, message:"Message successfully sent! Thank you for contacting Edubaba" })
+      return NextResponse.json({ error:false, message:"Message successfully sent! Thank you for contacting Dammy" })
 
     }
     return NextResponse.json({ error:true, message:'Something went wrong please try again.' })
