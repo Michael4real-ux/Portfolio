@@ -193,15 +193,12 @@ export default function Testimonial() {
                   </div>
                   <p
                     className={`mb-6 font-[200] font-recoletablack min-h-[70px] text-[15px] mt-3`}
-                  >
-                    
+                  >  
                   Working with Dammy has been nothing short of extraordinary. His expertise, 
                   dedication, and innovative thinking have been invaluable assets to our team 
                   and company. Time and time again, he have demonstrated an unparalleled commitment 
                   to excellence, consistently delivering top-notch solutions that exceed expectations. 
-                  His ability to tackle complex problems with grace and efficiency is truly commendable. 
-                  I am grateful to have such a talented and reliable professional on our team. 
-                  Thank you for your exceptional work and unwavering dedication!.⭐️⭐️⭐️⭐️⭐️
+                  His ability to tackle complex problems with grace and efficiency is truly commendable.⭐️⭐️⭐️⭐️⭐️
                   </p>
                 </div>
               </div>
@@ -240,8 +237,7 @@ export default function Testimonial() {
                    and problem-solving acumen that is truly remarkable. His ability to translate 
                    our vision into reality, coupled with their relentless drive for excellence, 
                    sets them apart. I am incredibly grateful for his contributions and commitment 
-                   to our shared goals. Thank you for being an indispensable part of our team and 
-                   helping us pave the way for success! 💙💙💙💙💙
+                   to our shared goals. 💙💙💙💙💙
                   </p>
                 </div>
               </div>
