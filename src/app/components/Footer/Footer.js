@@ -32,7 +32,7 @@ export default function Footer() {
                 Do you want to want to contact me?
               </p>
               <p className="text-white font-sans text-center lg:text-start">
-              Feel free to reach out to me by clicking on the following by clicking the button
+              Feel free to reach out to me by clicking on  the button
               </p>
             </div>
             <div className="col-span-12 lg:col-span-3">
