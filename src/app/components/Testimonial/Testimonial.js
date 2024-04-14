@@ -116,7 +116,7 @@ export default function Testimonial() {
             className={`max-w-2xl font-[200] font-recoletaBold mx-auto mb-12 lg:mb-24 `}
           >
             My clients and students are always pleased with my detailed
-            explanations. Read what my clients are saying about how I helped
+            skills  and explanations. Read what my clients are saying about how I helped
             them make a difference in their lives.
           </p>
         </div>
@@ -136,7 +136,7 @@ export default function Testimonial() {
                   height={25}
                   width={25}
                     className="mb-3 md:mb-0  h-20 w-20 rounded-full"
-                    src="/daisy.jpg"
+                    src="/avatar.jpg"
                     alt="/"
                   />
                 </div>
@@ -145,16 +145,16 @@ export default function Testimonial() {
                   <div
                     className={`font-[300] ${hind.className} font-medium text-[#48AEDD]`}
                   >
-                    YouTube Student
+                    Decagon Student(Engineer)
                   </div>
                   <p
                     className={`mb-6 font-[200] font-recoletablack min-h-[70px] text-[15px] mt-3`}
                   >
-                    man I&apos;m not gay but I love you for what you did. thank
+                    Your passion for the subject matter is infectious, making every class engaging and inspiring. 
+                    Your dedication to our learning goes beyond the curriculum. thank
                     you. nobody.. seriously nobody teaches this way explaining
-                    every class of tailwind and everything you write. people
-                    just say that go and download my code from github. but man
-                    you are the best. the amazing guide. thanks guru. thanks a
+                    every class and everything you write.
+                    you are the best. the amazing guide. thanks Dammy. thanks a
                     ton.❤️❤️❤️❤️❤️
                   </p>
                 </div>
@@ -180,25 +180,28 @@ export default function Testimonial() {
                   height={25}
                   width={25}
                     className="mb-3 md:mb-0  h-20 w-20 rounded-full"
-                    src="/john.jpg"
+                    src="/avatar.png"
                     alt="/"
                   />
                 </div>
                 <div className="flex flex-col gap-x-4 md:flex-col mb:items-center">
-                  <div className="font-medium text-base">John David</div>
+                  <div className="font-medium text-base">John Oamen</div>
                   <div
                     className={`font-[300] ${hind.className} font-medium text-[#48AEDD]`}
                   >
-                    Udemy Student
+                    CEO Cutstruct
                   </div>
                   <p
                     className={`mb-6 font-[200] font-recoletablack min-h-[70px] text-[15px] mt-3`}
                   >
-                    This was an amazing course, thank you so much for your
-                    time! I&apos;ve never been much of a JS person, it&apos;s always so
-                    confusing to me. You helped explain things in a way that
-                    made sense, and helped me remember. So thank you
-                    again.⭐️⭐️⭐️⭐️⭐️
+                    
+                  Working with Dammy has been nothing short of extraordinary. His expertise, 
+                  dedication, and innovative thinking have been invaluable assets to our team 
+                  and company. Time and time again, he have demonstrated an unparalleled commitment 
+                  to excellence, consistently delivering top-notch solutions that exceed expectations. 
+                  His ability to tackle complex problems with grace and efficiency is truly commendable. 
+                  I am grateful to have such a talented and reliable professional on our team. 
+                  Thank you for your exceptional work and unwavering dedication!.⭐️⭐️⭐️⭐️⭐️
                   </p>
                 </div>
               </div>
@@ -219,28 +222,26 @@ export default function Testimonial() {
                   height={25}
                   width={25}
                     className="mb-3 md:mb-0  h-20 w-20 rounded-full"
-                    src="/adijirat.png"
+                    src="/avatar.png"
                     alt="/"
                   />
                 </div>
                 <div className="flex flex-col gap-x-4 md:flex-col mb:items-center">
-                  <div className="font-medium text-base">Adityaraj</div>
+                  <div className="font-medium text-base">Kelvin</div>
                   <div
                     className={`font-[300] ${hind.className} font-medium text-[#48AEDD]`}
                   >
-                    Udemy Student
+                    WiseDrive(Co-founder)
                   </div>
                   <p
                     className={`mb-6 font-[200] font-recoletablack min-h-[70px] text-[15px] mt-3`}
                   >
-                    I loved the course. I always wanted to make my own
-                    portfolio and a website, but failed where to start. Truly,
-                    this course has a great ROI. Additionally, the instructor
-                    is very kind and considerate towards his learner’s. I
-                    faced quite a lot of obstructions and I always had prompt
-                    responses from Ehineex. All in all, would definitely
-                    recommend people to start their website portfolio journey
-                    from here 💙💙💙💙💙
+                   Beyond Dammy&apos;s impressive coding skills, he bring a level of creativity 
+                   and problem-solving acumen that is truly remarkable. His ability to translate 
+                   our vision into reality, coupled with their relentless drive for excellence, 
+                   sets them apart. I am incredibly grateful for his contributions and commitment 
+                   to our shared goals. Thank you for being an indispensable part of our team and 
+                   helping us pave the way for success! 💙💙💙💙💙
                   </p>
                 </div>
               </div>
@@ -261,7 +262,7 @@ export default function Testimonial() {
                   height={25}
                   width={25}
                     className="mb-3 md:mb-0  h-20 w-20 rounded-full"
-                    src="/amaka.png"
+                    src="/avatar.png"
                     alt="/"
                   />
                 </div>
@@ -270,15 +271,20 @@ export default function Testimonial() {
                   <div
                     className={`font-[300] ${hind.className} font-medium text-[#48AEDD]`}
                   >
-                    Youtube Student
+                    Decagon Student(Engineer)
                   </div>
                   <p
                     className={`mb-6 font-[200] font-recoletablack min-h-[70px] text-[15px] mt-3`}
                   >
-                    This is great do-along lecture course that doesn&apos;t stall
-                    too long at underlying stuff, some prior knowledge comes
-                    handy. One should look up newer and maintained packages on
-                    some occasions, but in-all great course.❤️❤️❤️❤️❤️
+                    Studying under Dammy has been a transformative experience. His passion for 
+                    the subject matter is palpable, and their dedication to our learning journey 
+                    is evident in every interaction. Dammy has a unique ability to break down 
+                    complex concepts into digestible pieces, making even the most challenging 
+                    material accessible to all. Beyond the classroom, he serve as a mentor, 
+                    offering guidance and support that extends far beyond the curriculum. 
+                    I am immensely grateful for his mentorship and the impact he have had 
+                    on my coding skills and personal growth. Thank you for inspiring us to reach new 
+                    heights!.❤️❤️❤️❤️❤️
                   </p>
                 </div>
               </div>
@@ -299,24 +305,25 @@ export default function Testimonial() {
                   height={25}
                   width={25}
                     className="mb-3 md:mb-0  h-20 w-20 rounded-full"
-                    src="/papo.png"
+                    src="/avatar.png"
                     alt="/"
                   />
                 </div>
                 <div className="flex flex-col gap-x-4 md:flex-col mb:items-center">
-                  <div className="font-medium text-base">Alpheus Papo</div>
+                  <div className="font-medium text-base">Joshua Dogubo</div>
                   <div
                     className={`font-[500] ${hind.className} font-medium text-[#48AEDD]`}
                   >
-                    Udemy Student
+                    Decagon Student(Engineer)
                   </div>
                   <p
                     className={`mb-6 font-[200] font-recoletablack min-h-[70px] text-[15px] mt-3`}
                   >
-                    hello thanks for giving me this opportunity to tell about
-                    my experience, the course is very good and the layout is
-                    very exceptional so i like it. thanks very much keep on
-                    bringing more similar courses. ⭐️⭐️⭐️⭐️⭐️
+                    
+                   Being a student under Dammy has been an incredible experience. His passion for 
+                   teaching is contagious, and his dedication to our success is unmatched. 
+                   Dammy goes above and beyond to ensure that each of us not only understands the material 
+                   but also feels empowered to excel.⭐️⭐️⭐️⭐️⭐️
                   </p>
                 </div>
               </div>
