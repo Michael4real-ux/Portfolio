@@ -175,6 +175,22 @@ const  HomeComponent = () =>{
                     <Image
                      height={8}
                      width={50}
+                     src="/javascript.png" alt="" className="h-12  " />
+                    <Image
+                     height={8}
+                     width={50}
+                     src="/java.png" alt="" className="h-12  " />
+                    <Image
+                     height={8}
+                     width={50}
+                     src="/C#.png" alt="" className="h-12  " />
+                    <Image
+                     height={8}
+                     width={50}
+                     src="/kuber.png" alt="" className="h-12  " />
+                    <Image
+                     height={8}
+                     width={50}
                      src="/mongodb.png" alt="" className="h-12  " />
                     <Image
                      height={8}
