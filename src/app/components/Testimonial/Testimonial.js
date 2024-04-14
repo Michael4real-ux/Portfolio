@@ -136,7 +136,7 @@ export default function Testimonial() {
                   height={25}
                   width={25}
                     className="mb-3 md:mb-0  h-20 w-20 rounded-full"
-                    src="/avatar.jpg"
+                    src="/avatar.png"
                     alt="/"
                   />
                 </div>
