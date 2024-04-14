@@ -1,22 +1,22 @@
 // this comtains the data we are gonna for AboutMe component and slider component 
 
 export const AboutData = [
+    // {
+    //   count: 1,
+    //   title: "UI / UX Designer",
+    //   img: "/first.svg",
+    //   array: [
+    //     "Information Architecture",
+    //     "Pen and Paper",
+    //     "Adobe Photoshop",
+    //     "Adobe Illustrator",
+    //     "Figma",
+    //     "Framer",
+    //     "Typography / Spacing / ...",
+    //   ],
+    // },
     {
       count: 1,
-      title: "UI / UX Designer",
-      img: "/first.svg",
-      array: [
-        "Information Architecture",
-        "Pen and Paper",
-        "Adobe Photoshop",
-        "Adobe Illustrator",
-        "Figma",
-        "Framer",
-        "Typography / Spacing / ...",
-      ],
-    },
-    {
-      count: 2,
       title: "Front-end Developer",
       img: "/second.svg",
       array: [
@@ -30,25 +30,30 @@ export const AboutData = [
       ],
     },
     {
-      count: 3,
+      count: 2,
       title: "Back-end Developer",
       img: "/third.svg",
       array: [
-        "NodeJS / Express.js",
+        "C# / Asp.Net",
+        "Java / Spring boot",
+        "Javascript",
+        "NodeJS / Express.js / Nest.js / Koa",
         "MongoDB / MySQL / MSSQL",
         "Next.js (API)",
-        "PHP",
+        "React",
+        "PHP / Laravel",
         "WordPress Theme Dev",
         "WordPress Plugin Dev.",
         "ASP (Once upon a time)",
       ],
     },
     {
-      count: 4,
+      count: 3,
       title: "DevOps and Admin",
       img: "/fourth.svg",
       array: [
         "Docker / CI CD",
+        "Kubernetes",
         "Apache / Nginx",
         "CentOS / Ubuntu",
         "Windows Server / IIS",
@@ -58,21 +63,21 @@ export const AboutData = [
       ],
     },
     {
-      count: 5,
+      count: 4,
       title: "CMS and Headless CMS",
       img: "/fifth.svg",
       array: [
-        "Contentful",
-        "GraphCMS",
+        // "Contentful",
+        // "GraphCMS",
         "Strapi",
         "WordPress (Gutenberg)",
-        "Directus",
-        "Sanity",
-        "SiteBaan (My Own)",
+        // "Directus",
+        // "Sanity",
+        // "SiteBaan (My Own)",
       ],
     },
     {
-      count: 6,
+      count: 5,
       title: "Tools and Things",
       img: "/sisxth.svg",
       array: [
