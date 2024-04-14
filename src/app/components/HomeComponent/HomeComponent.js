@@ -183,7 +183,7 @@ const  HomeComponent = () =>{
                     <Image
                      height={8}
                      width={50}
-                     src="/C#.png" alt="" className="h-12  " />
+                     src="/csharp.png" alt="" className="h-12  " />
                     <Image
                      height={8}
                      width={50}
