@@ -150,7 +150,7 @@ const  HomeComponent = () =>{
                   className=""
                   alt="Full-Stack Engineer"
                   ///ehizeex.png
-                  src="Damiimage.jpegs"
+                  src="Damiimage.jpeg"
                   decoding="async"
                   data-nimg="intrinsic"
                   width={0}
