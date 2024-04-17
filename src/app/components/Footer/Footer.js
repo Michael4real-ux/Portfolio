@@ -29,7 +29,7 @@ export default function Footer() {
           <div className="grid grid-cols-12">
             <div className="col-span-12 lg:col-span-9">
               <p className="text-[30px] text-white text-center lg:text-start">
-                Do you want to want to contact or hire me?
+                Do you want to contact or hire me?
               </p>
               <p className="text-white font-sans text-center lg:text-start">
               Feel free to reach out to me by clicking on  the button
